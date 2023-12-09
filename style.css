@@ -1,0 +1,92 @@
+.logo{
+    height: 40px;
+    width: 40px;
+}
+
+.logo-besar {
+  height: 64px;
+  width: 64px;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #f5f3f7;
+  }
+
+section{
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+}
+
+#banner{
+  padding-top: 80px;
+  padding-bottom: 120px;
+}
+
+#kelebihan{
+  background-color: #44365A ;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#kelebihan h1{
+    color: white;
+}
+
+.card {
+  border-radius: 40px;
+
+}
+  .btn-primary {
+    color: #fff;
+    background-color: #503B9B ;
+   border-color: #503B9B ;
+   border-radius: 24px;
+   padding-left: 28px;
+   padding-right: 28px;
+   padding-top: 6px;
+   padding-bottom: 6px;
+   text-transform: capitalize;
+   font-size: 1rem;
+   font-weight: bold;
+  }
+  .btn-primary:hover {
+    color: #fff;
+    background-color: #FF8A01  ;
+   border-color: #FF8A01  ;
+
+  }
+
+  h1 {
+    font-weight: 700;
+  }
+
+  h5{
+    font-weight: 700;
+  }
+
+
+  .btn-primary-orange {
+      color: #fff;
+      background-color: #FF8A01 ;
+      border-color: #FF8A01;
+      transition-duration: 0.4s;
+  }
+  .btn-primary-orange:hover {
+    color: #fff;
+    background-color: #44365A;
+    border-color: #44365A;
+    transition-duration: 0.4s;
+  }
+  
+  footer{
+    
+      background-image: linear-gradient(to bottom right, #503B9B , #44365A );
+      color: #fff;
+      padding-top: 40px;
+      padding-bottom: 40px;
+      padding-left: 40px;
+      padding-right: 40px;
+  }
